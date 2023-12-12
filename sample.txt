@@ -1,0 +1,3 @@
+Here is some sample text for our new file!
+ Preeetty neat!
+Here is an appended line!
